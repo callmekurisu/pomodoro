@@ -1,0 +1,141 @@
+body,
+html{
+  background-color: #D0D0D0;
+}
+
+.row1font {
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #888888;
+  color: ;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+.main1 {
+  position: absolute;
+  width: 380px;
+  height: 400px;
+  background-color: #000;
+  border-color: black;
+  border-radius: 50px;
+  font-size: 20px;
+  top: 100px;
+  left: 400px;
+  right: 400px;
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #333;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Sans";
+}
+
+#cdtSec {
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px;
+  position: absolute;
+  font-size: 100px;
+  top: 250px;
+  left: 460px;
+  color: white;
+  font-family: transitor;
+  
+}
+
+#cdtMin {
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px;
+  position: absolute;
+  font-size: 100px;
+  top: 150px;
+  left: 460px;
+  color: white;
+  font-family: transitor;
+  
+}
+
+#plus {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  border-color: black;
+  border-radius: 10px;
+  top: 110px;
+  left: 200px;
+  right: 400px;
+  padding-bottom: 120px;
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #333;
+  color: white;
+  font-family: "Sans";
+  font-size: 90px;
+  text-align: center;
+
+}
+
+#minus {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  border-color: black;
+  border-radius: 10px;
+  top: 250px;
+  left: 200px;
+  right: 400px;
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #333;
+  color: white;
+  padding-bottom: 120px;
+  font-family: "Sans";
+  font-size: 90px;
+  text-align: center;
+
+}
+
+#start {
+  position: absolute;
+  width: 100px;
+  height: 0px;
+  background-color: #000;
+  border-color: black;
+  border-radius: 10px;
+  top: 400px;
+  left: 200px;
+  right: 400px;
+  text-shadow: -1px -1px 3px #AAA,
+                       0px 0px 0px #FFF;
+  box-shadow: 10px 10px 5px #333;
+  color: #090;
+  padding-bottom: 120px;
+  font-family: "Sans";
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.copyright {
+  position: fixed;
+  bottom: 0px;
+  left: 200px;
+  text-align: center;
+  }
+
+.row6font {
+  color: black;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+.icon2 {
+  margin-right: 20px;
+  width: 50px;
+  }
+
